@@ -1,0 +1,4 @@
+package-lock.json
+
+# exclude npm pack packages
+*.tgz
