@@ -1,8 +1,8 @@
 # my eslint config
 
 I have multiple projects with the same eslint config again and again.
-changing something means changing it in every project.
-This hopefully simplifies it
+Changing something means changing it in every project.
+This hopefully simplifies it.
 
 ## Usage
 
