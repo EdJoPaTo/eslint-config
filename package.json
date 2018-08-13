@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-edjopato",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Eslint config of EdJoPaTo",
   "main": "index.js",
   "scripts": {},
@@ -25,5 +25,9 @@
     "eslintconfig"
   ],
   "author": "Edgar To",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EdJoPaTo/eslint-config/issues"
+  },
+  "homepage": "https://github.com/EdJoPaTo/eslint-config#readme"
 }
